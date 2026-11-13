@@ -2,8 +2,12 @@
 {
   "jmeno": "Melichlor",
   "vek": 17,
+  "oblibene_cislo": 67,
   "je_plnolety": false,
-  "poznamka": null,
+  "znamka_z_cestiny": 1,
+  "poznamka": [
+    "Rád sportuji"
+  ],
   "adresa": {
     "mesto": "Mirošovice",
     "ulice": "Na Ježově"
